@@ -1,0 +1,8 @@
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 1\apowerb\apowerb\bin\Debug\apowerb.exe.config
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 1\apowerb\apowerb\bin\Debug\apowerb.exe
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 1\apowerb\apowerb\bin\Debug\apowerb.pdb
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 1\apowerb\apowerb\obj\Debug\apowerb.csproj.AssemblyReference.cache
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 1\apowerb\apowerb\obj\Debug\apowerb.csproj.SuggestedBindingRedirects.cache
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 1\apowerb\apowerb\obj\Debug\apowerb.csproj.CoreCompileInputs.cache
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 1\apowerb\apowerb\obj\Debug\apowerb.exe
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 1\apowerb\apowerb\obj\Debug\apowerb.pdb

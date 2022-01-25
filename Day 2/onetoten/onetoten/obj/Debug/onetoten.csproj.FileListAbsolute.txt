@@ -1,0 +1,8 @@
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 2\onetoten\onetoten\bin\Debug\onetoten.exe.config
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 2\onetoten\onetoten\bin\Debug\onetoten.exe
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 2\onetoten\onetoten\bin\Debug\onetoten.pdb
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 2\onetoten\onetoten\obj\Debug\onetoten.csproj.AssemblyReference.cache
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 2\onetoten\onetoten\obj\Debug\onetoten.csproj.SuggestedBindingRedirects.cache
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 2\onetoten\onetoten\obj\Debug\onetoten.csproj.CoreCompileInputs.cache
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 2\onetoten\onetoten\obj\Debug\onetoten.exe
+C:\Users\vihar\Desktop\Vihar_NH_assignments\Day 2\onetoten\onetoten\obj\Debug\onetoten.pdb
