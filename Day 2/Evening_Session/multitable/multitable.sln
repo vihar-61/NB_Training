@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multitable", "multitable\multitable.csproj", "{EF9F3C53-51FB-4BB1-9E8A-084EA41E5A96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9F3C53-51FB-4BB1-9E8A-084EA41E5A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9F3C53-51FB-4BB1-9E8A-084EA41E5A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9F3C53-51FB-4BB1-9E8A-084EA41E5A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9F3C53-51FB-4BB1-9E8A-084EA41E5A96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42E6642-9AD0-4389-8CED-90838B7CBE9E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 2\Evening_Session\nfactors\nfactors\bin\Debug\nfactors.exe.config
+C:\Assignments_NH_Vihar\Day 2\Evening_Session\nfactors\nfactors\bin\Debug\nfactors.exe
+C:\Assignments_NH_Vihar\Day 2\Evening_Session\nfactors\nfactors\bin\Debug\nfactors.pdb
+C:\Assignments_NH_Vihar\Day 2\Evening_Session\nfactors\nfactors\obj\Debug\nfactors.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 2\Evening_Session\nfactors\nfactors\obj\Debug\nfactors.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 2\Evening_Session\nfactors\nfactors\obj\Debug\nfactors.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 2\Evening_Session\nfactors\nfactors\obj\Debug\nfactors.exe
+C:\Assignments_NH_Vihar\Day 2\Evening_Session\nfactors\nfactors\obj\Debug\nfactors.pdb
