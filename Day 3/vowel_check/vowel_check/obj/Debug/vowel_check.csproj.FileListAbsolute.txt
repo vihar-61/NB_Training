@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 3\vowel_check\vowel_check\bin\Debug\vowel_check.exe.config
+C:\Assignments_NH_Vihar\Day 3\vowel_check\vowel_check\bin\Debug\vowel_check.exe
+C:\Assignments_NH_Vihar\Day 3\vowel_check\vowel_check\bin\Debug\vowel_check.pdb
+C:\Assignments_NH_Vihar\Day 3\vowel_check\vowel_check\obj\Debug\vowel_check.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 3\vowel_check\vowel_check\obj\Debug\vowel_check.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 3\vowel_check\vowel_check\obj\Debug\vowel_check.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 3\vowel_check\vowel_check\obj\Debug\vowel_check.exe
+C:\Assignments_NH_Vihar\Day 3\vowel_check\vowel_check\obj\Debug\vowel_check.pdb

@@ -1,0 +1,7 @@
+C:\Assignments_NH_Vihar\Day 3\sumavg_array\sumavg_array\bin\Debug\sumavg_array.exe.config
+C:\Assignments_NH_Vihar\Day 3\sumavg_array\sumavg_array\bin\Debug\sumavg_array.exe
+C:\Assignments_NH_Vihar\Day 3\sumavg_array\sumavg_array\bin\Debug\sumavg_array.pdb
+C:\Assignments_NH_Vihar\Day 3\sumavg_array\sumavg_array\obj\Debug\sumavg_array.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 3\sumavg_array\sumavg_array\obj\Debug\sumavg_array.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 3\sumavg_array\sumavg_array\obj\Debug\sumavg_array.exe
+C:\Assignments_NH_Vihar\Day 3\sumavg_array\sumavg_array\obj\Debug\sumavg_array.pdb

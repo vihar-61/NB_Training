@@ -1,0 +1,7 @@
+C:\Assignments_NH_Vihar\Day 3\sum_foreach\sum_foreach\bin\Debug\sum_foreach.exe.config
+C:\Assignments_NH_Vihar\Day 3\sum_foreach\sum_foreach\bin\Debug\sum_foreach.exe
+C:\Assignments_NH_Vihar\Day 3\sum_foreach\sum_foreach\bin\Debug\sum_foreach.pdb
+C:\Assignments_NH_Vihar\Day 3\sum_foreach\sum_foreach\obj\Debug\sum_foreach.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 3\sum_foreach\sum_foreach\obj\Debug\sum_foreach.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 3\sum_foreach\sum_foreach\obj\Debug\sum_foreach.exe
+C:\Assignments_NH_Vihar\Day 3\sum_foreach\sum_foreach\obj\Debug\sum_foreach.pdb
