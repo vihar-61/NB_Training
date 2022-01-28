@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 3\ctocsprgms\ctocsprgms\bin\Debug\ctocsprgms.exe.config
+C:\Assignments_NH_Vihar\Day 3\ctocsprgms\ctocsprgms\bin\Debug\ctocsprgms.exe
+C:\Assignments_NH_Vihar\Day 3\ctocsprgms\ctocsprgms\bin\Debug\ctocsprgms.pdb
+C:\Assignments_NH_Vihar\Day 3\ctocsprgms\ctocsprgms\obj\Debug\ctocsprgms.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 3\ctocsprgms\ctocsprgms\obj\Debug\ctocsprgms.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 3\ctocsprgms\ctocsprgms\obj\Debug\ctocsprgms.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 3\ctocsprgms\ctocsprgms\obj\Debug\ctocsprgms.exe
+C:\Assignments_NH_Vihar\Day 3\ctocsprgms\ctocsprgms\obj\Debug\ctocsprgms.pdb
