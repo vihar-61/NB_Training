@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 6\values8_even_4looptypes\values8_even_4looptypes\bin\Debug\values8_even_4looptypes.exe.config
+C:\Assignments_NH_Vihar\Day 6\values8_even_4looptypes\values8_even_4looptypes\bin\Debug\values8_even_4looptypes.exe
+C:\Assignments_NH_Vihar\Day 6\values8_even_4looptypes\values8_even_4looptypes\bin\Debug\values8_even_4looptypes.pdb
+C:\Assignments_NH_Vihar\Day 6\values8_even_4looptypes\values8_even_4looptypes\obj\Debug\values8_even_4looptypes.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 6\values8_even_4looptypes\values8_even_4looptypes\obj\Debug\values8_even_4looptypes.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 6\values8_even_4looptypes\values8_even_4looptypes\obj\Debug\values8_even_4looptypes.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 6\values8_even_4looptypes\values8_even_4looptypes\obj\Debug\values8_even_4looptypes.exe
+C:\Assignments_NH_Vihar\Day 6\values8_even_4looptypes\values8_even_4looptypes\obj\Debug\values8_even_4looptypes.pdb

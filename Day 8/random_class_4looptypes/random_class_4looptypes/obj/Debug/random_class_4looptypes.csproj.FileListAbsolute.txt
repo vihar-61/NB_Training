@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 6\random_class_4looptypes\random_class_4looptypes\bin\Debug\random_class_4looptypes.exe.config
+C:\Assignments_NH_Vihar\Day 6\random_class_4looptypes\random_class_4looptypes\bin\Debug\random_class_4looptypes.exe
+C:\Assignments_NH_Vihar\Day 6\random_class_4looptypes\random_class_4looptypes\bin\Debug\random_class_4looptypes.pdb
+C:\Assignments_NH_Vihar\Day 6\random_class_4looptypes\random_class_4looptypes\obj\Debug\random_class_4looptypes.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 6\random_class_4looptypes\random_class_4looptypes\obj\Debug\random_class_4looptypes.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 6\random_class_4looptypes\random_class_4looptypes\obj\Debug\random_class_4looptypes.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 6\random_class_4looptypes\random_class_4looptypes\obj\Debug\random_class_4looptypes.exe
+C:\Assignments_NH_Vihar\Day 6\random_class_4looptypes\random_class_4looptypes\obj\Debug\random_class_4looptypes.pdb

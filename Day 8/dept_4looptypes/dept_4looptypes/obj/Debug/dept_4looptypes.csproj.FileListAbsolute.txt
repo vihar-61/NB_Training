@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 6\dept_4looptypes\dept_4looptypes\bin\Debug\dept_4looptypes.exe.config
+C:\Assignments_NH_Vihar\Day 6\dept_4looptypes\dept_4looptypes\bin\Debug\dept_4looptypes.exe
+C:\Assignments_NH_Vihar\Day 6\dept_4looptypes\dept_4looptypes\bin\Debug\dept_4looptypes.pdb
+C:\Assignments_NH_Vihar\Day 6\dept_4looptypes\dept_4looptypes\obj\Debug\dept_4looptypes.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 6\dept_4looptypes\dept_4looptypes\obj\Debug\dept_4looptypes.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 6\dept_4looptypes\dept_4looptypes\obj\Debug\dept_4looptypes.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 6\dept_4looptypes\dept_4looptypes\obj\Debug\dept_4looptypes.exe
+C:\Assignments_NH_Vihar\Day 6\dept_4looptypes\dept_4looptypes\obj\Debug\dept_4looptypes.pdb
