@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 6\3var2meth_read_print\3var2meth_read_print\obj\Debug\3var2meth_read_print.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 6\3var2meth_read_print\3var2meth_read_print\obj\Debug\3var2meth_read_print.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 6\3var2meth_read_print\3var2meth_read_print\obj\Debug\3var2meth_read_print.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 6\3var2meth_read_print\3var2meth_read_print\bin\Debug\3var2meth_read_print.exe.config
+C:\Assignments_NH_Vihar\Day 6\3var2meth_read_print\3var2meth_read_print\bin\Debug\3var2meth_read_print.exe
+C:\Assignments_NH_Vihar\Day 6\3var2meth_read_print\3var2meth_read_print\bin\Debug\3var2meth_read_print.pdb
+C:\Assignments_NH_Vihar\Day 6\3var2meth_read_print\3var2meth_read_print\obj\Debug\3var2meth_read_print.exe
+C:\Assignments_NH_Vihar\Day 6\3var2meth_read_print\3var2meth_read_print\obj\Debug\3var2meth_read_print.pdb

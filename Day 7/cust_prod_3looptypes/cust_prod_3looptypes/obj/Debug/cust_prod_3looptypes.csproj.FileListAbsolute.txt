@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 7\cust_prod_3looptypes\cust_prod_3looptypes\bin\Debug\cust_prod_3looptypes.exe.config
+C:\Assignments_NH_Vihar\Day 7\cust_prod_3looptypes\cust_prod_3looptypes\bin\Debug\cust_prod_3looptypes.exe
+C:\Assignments_NH_Vihar\Day 7\cust_prod_3looptypes\cust_prod_3looptypes\bin\Debug\cust_prod_3looptypes.pdb
+C:\Assignments_NH_Vihar\Day 7\cust_prod_3looptypes\cust_prod_3looptypes\obj\Debug\cust_prod_3looptypes.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 7\cust_prod_3looptypes\cust_prod_3looptypes\obj\Debug\cust_prod_3looptypes.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 7\cust_prod_3looptypes\cust_prod_3looptypes\obj\Debug\cust_prod_3looptypes.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 7\cust_prod_3looptypes\cust_prod_3looptypes\obj\Debug\cust_prod_3looptypes.exe
+C:\Assignments_NH_Vihar\Day 7\cust_prod_3looptypes\cust_prod_3looptypes\obj\Debug\cust_prod_3looptypes.pdb

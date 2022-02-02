@@ -13,15 +13,15 @@ namespace imp_exp_conversion
             // implicit conversion
             // Type Casting short to int
 
-            short newShort = 10;
+            short newShort = 42;
             int newInt1 = newShort;
 
             Console.WriteLine("Implicit Conversion of short to int is : {0}", newInt1);
 
             // Explicit Conversion
-            // Casting double to int
+            // Type Casting double to int
 
-            double newDouble = 13.37;
+            double newDouble = 11.23;
             int newInt2 = (int)newDouble;
             Console.WriteLine("Explicit Conversion of double to int is : {0}", newInt2);
             Console.ReadLine();

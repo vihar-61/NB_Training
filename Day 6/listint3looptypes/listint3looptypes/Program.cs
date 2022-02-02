@@ -29,7 +29,7 @@ namespace listint3looptypes
             {
                 sum1 = sum1 + data[i];
             }
-            Console.WriteLine("\n The sum ( Using For Loop )  is : {0}", sum1);
+            Console.WriteLine("\n The sum is : {0}", sum1);
 
             //Using Foreach Loop----------------------------------------------
             Console.WriteLine("\n\nOutput ( Using Foreach Loop ) : ");
@@ -38,14 +38,14 @@ namespace listint3looptypes
             {
                 sum2 = sum2 + d;
             }
-            Console.WriteLine("\n The sum ( Using Foreach Loop ) is : {0}", sum2);
+            Console.WriteLine("\n The sum is : {0}", sum2);
 
             //Using Lambda Expression-----------------------------------------
             Console.WriteLine("\n\nOutput ( Using Lambda Expression ) : ");
             Console.WriteLine("----------------------------------------------------------------------------");
             data.ForEach(d => sum3 = sum3 + d);
 
-            Console.WriteLine("\n The sum ( Using lambda expression )  is : {0}", sum3);
+            Console.WriteLine("\n The sum is : {0}", sum3);
             Console.ReadLine();
         }
     }

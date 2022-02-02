@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 7\4classes\4classes\bin\Debug\4classes.exe.config
+C:\Assignments_NH_Vihar\Day 7\4classes\4classes\bin\Debug\4classes.exe
+C:\Assignments_NH_Vihar\Day 7\4classes\4classes\bin\Debug\4classes.pdb
+C:\Assignments_NH_Vihar\Day 7\4classes\4classes\obj\Debug\4classes.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 7\4classes\4classes\obj\Debug\4classes.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 7\4classes\4classes\obj\Debug\4classes.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 7\4classes\4classes\obj\Debug\4classes.exe
+C:\Assignments_NH_Vihar\Day 7\4classes\4classes\obj\Debug\4classes.pdb

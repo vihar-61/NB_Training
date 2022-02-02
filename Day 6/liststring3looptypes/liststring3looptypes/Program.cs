@@ -23,7 +23,7 @@ namespace liststring3looptypes
             {
                 Console.WriteLine("\t- {0} -", data[i]);
             }
-            Console.WriteLine();
+            
 
             //Using For Each Loop--------------------------------------
             Console.WriteLine("\n Output ( Using For Each Loop ) : ");
@@ -31,13 +31,13 @@ namespace liststring3looptypes
             {
                 Console.WriteLine("\t- {0} -", d);
             }
-            Console.WriteLine();
+            
 
             //Using Lambda Expression----------------------------------
             Console.WriteLine("\n Output ( Using Lambda Expression ) : ");
             data.ForEach(d => Console.WriteLine("\t- {0} -", d));
 
-            Console.WriteLine();
+            
             Console.ReadLine();
         }
     }

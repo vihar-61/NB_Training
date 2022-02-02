@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 7\emp_public\emp_public\bin\Debug\emp_public.exe.config
+C:\Assignments_NH_Vihar\Day 7\emp_public\emp_public\bin\Debug\emp_public.exe
+C:\Assignments_NH_Vihar\Day 7\emp_public\emp_public\bin\Debug\emp_public.pdb
+C:\Assignments_NH_Vihar\Day 7\emp_public\emp_public\obj\Debug\emp_public.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 7\emp_public\emp_public\obj\Debug\emp_public.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 7\emp_public\emp_public\obj\Debug\emp_public.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 7\emp_public\emp_public\obj\Debug\emp_public.exe
+C:\Assignments_NH_Vihar\Day 7\emp_public\emp_public\obj\Debug\emp_public.pdb

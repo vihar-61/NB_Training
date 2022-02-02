@@ -5,3 +5,4 @@ C:\Assignments_NH_Vihar\Day 6\imp_exp_conversion\imp_exp_conversion\obj\Debug\im
 C:\Assignments_NH_Vihar\Day 6\imp_exp_conversion\imp_exp_conversion\obj\Debug\imp_exp_conversion.csproj.CoreCompileInputs.cache
 C:\Assignments_NH_Vihar\Day 6\imp_exp_conversion\imp_exp_conversion\obj\Debug\imp_exp_conversion.exe
 C:\Assignments_NH_Vihar\Day 6\imp_exp_conversion\imp_exp_conversion\obj\Debug\imp_exp_conversion.pdb
+C:\Assignments_NH_Vihar\Day 6\imp_exp_conversion\imp_exp_conversion\obj\Debug\imp_exp_conversion.csproj.AssemblyReference.cache
