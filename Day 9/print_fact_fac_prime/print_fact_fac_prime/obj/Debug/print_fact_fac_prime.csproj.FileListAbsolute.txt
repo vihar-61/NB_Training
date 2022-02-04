@@ -1,0 +1,8 @@
+C:\Users\vihar\Desktop\random\print_fact_fac_prime\print_fact_fac_prime\bin\Debug\print_fact_fac_prime.exe.config
+C:\Users\vihar\Desktop\random\print_fact_fac_prime\print_fact_fac_prime\bin\Debug\print_fact_fac_prime.exe
+C:\Users\vihar\Desktop\random\print_fact_fac_prime\print_fact_fac_prime\bin\Debug\print_fact_fac_prime.pdb
+C:\Users\vihar\Desktop\random\print_fact_fac_prime\print_fact_fac_prime\obj\Debug\print_fact_fac_prime.csproj.AssemblyReference.cache
+C:\Users\vihar\Desktop\random\print_fact_fac_prime\print_fact_fac_prime\obj\Debug\print_fact_fac_prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\vihar\Desktop\random\print_fact_fac_prime\print_fact_fac_prime\obj\Debug\print_fact_fac_prime.csproj.CoreCompileInputs.cache
+C:\Users\vihar\Desktop\random\print_fact_fac_prime\print_fact_fac_prime\obj\Debug\print_fact_fac_prime.exe
+C:\Users\vihar\Desktop\random\print_fact_fac_prime\print_fact_fac_prime\obj\Debug\print_fact_fac_prime.pdb

@@ -1,0 +1,8 @@
+C:\Users\vihar\Desktop\random\emp4var\emp4var\bin\Debug\emp4var.exe.config
+C:\Users\vihar\Desktop\random\emp4var\emp4var\bin\Debug\emp4var.exe
+C:\Users\vihar\Desktop\random\emp4var\emp4var\bin\Debug\emp4var.pdb
+C:\Users\vihar\Desktop\random\emp4var\emp4var\obj\Debug\emp4var.csproj.AssemblyReference.cache
+C:\Users\vihar\Desktop\random\emp4var\emp4var\obj\Debug\emp4var.csproj.SuggestedBindingRedirects.cache
+C:\Users\vihar\Desktop\random\emp4var\emp4var\obj\Debug\emp4var.csproj.CoreCompileInputs.cache
+C:\Users\vihar\Desktop\random\emp4var\emp4var\obj\Debug\emp4var.exe
+C:\Users\vihar\Desktop\random\emp4var\emp4var\obj\Debug\emp4var.pdb

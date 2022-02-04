@@ -1,0 +1,7 @@
+C:\Users\vihar\Desktop\random\2inputs_mathops\2inputs_mathops\bin\Debug\2inputs_mathops.exe.config
+C:\Users\vihar\Desktop\random\2inputs_mathops\2inputs_mathops\bin\Debug\2inputs_mathops.exe
+C:\Users\vihar\Desktop\random\2inputs_mathops\2inputs_mathops\bin\Debug\2inputs_mathops.pdb
+C:\Users\vihar\Desktop\random\2inputs_mathops\2inputs_mathops\obj\Debug\2inputs_mathops.csproj.SuggestedBindingRedirects.cache
+C:\Users\vihar\Desktop\random\2inputs_mathops\2inputs_mathops\obj\Debug\2inputs_mathops.csproj.CoreCompileInputs.cache
+C:\Users\vihar\Desktop\random\2inputs_mathops\2inputs_mathops\obj\Debug\2inputs_mathops.exe
+C:\Users\vihar\Desktop\random\2inputs_mathops\2inputs_mathops\obj\Debug\2inputs_mathops.pdb
