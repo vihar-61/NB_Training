@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 10\single_inherit\single_inherit\bin\Debug\single_inherit.exe.config
+C:\Assignments_NH_Vihar\Day 10\single_inherit\single_inherit\bin\Debug\single_inherit.exe
+C:\Assignments_NH_Vihar\Day 10\single_inherit\single_inherit\bin\Debug\single_inherit.pdb
+C:\Assignments_NH_Vihar\Day 10\single_inherit\single_inherit\obj\Debug\single_inherit.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 10\single_inherit\single_inherit\obj\Debug\single_inherit.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 10\single_inherit\single_inherit\obj\Debug\single_inherit.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 10\single_inherit\single_inherit\obj\Debug\single_inherit.exe
+C:\Assignments_NH_Vihar\Day 10\single_inherit\single_inherit\obj\Debug\single_inherit.pdb

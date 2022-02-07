@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 10\multi_inherit\multi_inherit\bin\Debug\multi_inherit.exe.config
+C:\Assignments_NH_Vihar\Day 10\multi_inherit\multi_inherit\bin\Debug\multi_inherit.exe
+C:\Assignments_NH_Vihar\Day 10\multi_inherit\multi_inherit\bin\Debug\multi_inherit.pdb
+C:\Assignments_NH_Vihar\Day 10\multi_inherit\multi_inherit\obj\Debug\multi_inherit.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 10\multi_inherit\multi_inherit\obj\Debug\multi_inherit.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 10\multi_inherit\multi_inherit\obj\Debug\multi_inherit.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 10\multi_inherit\multi_inherit\obj\Debug\multi_inherit.exe
+C:\Assignments_NH_Vihar\Day 10\multi_inherit\multi_inherit\obj\Debug\multi_inherit.pdb
