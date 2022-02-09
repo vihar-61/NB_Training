@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 11\interface_isshapes\interface_isshapes\bin\Debug\interface_isshapes.exe.config
+C:\Assignments_NH_Vihar\Day 11\interface_isshapes\interface_isshapes\bin\Debug\interface_isshapes.exe
+C:\Assignments_NH_Vihar\Day 11\interface_isshapes\interface_isshapes\bin\Debug\interface_isshapes.pdb
+C:\Assignments_NH_Vihar\Day 11\interface_isshapes\interface_isshapes\obj\Debug\interface_isshapes.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 11\interface_isshapes\interface_isshapes\obj\Debug\interface_isshapes.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 11\interface_isshapes\interface_isshapes\obj\Debug\interface_isshapes.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 11\interface_isshapes\interface_isshapes\obj\Debug\interface_isshapes.exe
+C:\Assignments_NH_Vihar\Day 11\interface_isshapes\interface_isshapes\obj\Debug\interface_isshapes.pdb

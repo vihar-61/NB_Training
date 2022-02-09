@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 11\only_property\only_property\bin\Debug\only_property.exe.config
+C:\Assignments_NH_Vihar\Day 11\only_property\only_property\bin\Debug\only_property.exe
+C:\Assignments_NH_Vihar\Day 11\only_property\only_property\bin\Debug\only_property.pdb
+C:\Assignments_NH_Vihar\Day 11\only_property\only_property\obj\Debug\only_property.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 11\only_property\only_property\obj\Debug\only_property.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 11\only_property\only_property\obj\Debug\only_property.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 11\only_property\only_property\obj\Debug\only_property.exe
+C:\Assignments_NH_Vihar\Day 11\only_property\only_property\obj\Debug\only_property.pdb

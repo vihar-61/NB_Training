@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 11\add_3_static\add_3_static\bin\Debug\add_3_static.exe.config
+C:\Assignments_NH_Vihar\Day 11\add_3_static\add_3_static\bin\Debug\add_3_static.exe
+C:\Assignments_NH_Vihar\Day 11\add_3_static\add_3_static\bin\Debug\add_3_static.pdb
+C:\Assignments_NH_Vihar\Day 11\add_3_static\add_3_static\obj\Debug\add_3_static.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 11\add_3_static\add_3_static\obj\Debug\add_3_static.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 11\add_3_static\add_3_static\obj\Debug\add_3_static.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 11\add_3_static\add_3_static\obj\Debug\add_3_static.exe
+C:\Assignments_NH_Vihar\Day 11\add_3_static\add_3_static\obj\Debug\add_3_static.pdb

@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 11\get_set_accessmods\get_set_accessmods\bin\Debug\get_set_accessmods.exe.config
+C:\Assignments_NH_Vihar\Day 11\get_set_accessmods\get_set_accessmods\bin\Debug\get_set_accessmods.exe
+C:\Assignments_NH_Vihar\Day 11\get_set_accessmods\get_set_accessmods\bin\Debug\get_set_accessmods.pdb
+C:\Assignments_NH_Vihar\Day 11\get_set_accessmods\get_set_accessmods\obj\Debug\get_set_accessmods.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 11\get_set_accessmods\get_set_accessmods\obj\Debug\get_set_accessmods.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 11\get_set_accessmods\get_set_accessmods\obj\Debug\get_set_accessmods.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 11\get_set_accessmods\get_set_accessmods\obj\Debug\get_set_accessmods.exe
+C:\Assignments_NH_Vihar\Day 11\get_set_accessmods\get_set_accessmods\obj\Debug\get_set_accessmods.pdb
