@@ -1,0 +1,7 @@
+C:\Assignments_NH_Vihar\Day 15\copy_task_scheduler\copy_task_scheduler\bin\Debug\copy_task_scheduler.exe.config
+C:\Assignments_NH_Vihar\Day 15\copy_task_scheduler\copy_task_scheduler\bin\Debug\copy_task_scheduler.exe
+C:\Assignments_NH_Vihar\Day 15\copy_task_scheduler\copy_task_scheduler\bin\Debug\copy_task_scheduler.pdb
+C:\Assignments_NH_Vihar\Day 15\copy_task_scheduler\copy_task_scheduler\obj\Debug\copy_task_scheduler.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 15\copy_task_scheduler\copy_task_scheduler\obj\Debug\copy_task_scheduler.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 15\copy_task_scheduler\copy_task_scheduler\obj\Debug\copy_task_scheduler.exe
+C:\Assignments_NH_Vihar\Day 15\copy_task_scheduler\copy_task_scheduler\obj\Debug\copy_task_scheduler.pdb

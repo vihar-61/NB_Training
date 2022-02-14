@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 15\10methods_file_ops\10methods_file_ops\bin\Debug\10methods_file_ops.exe.config
+C:\Assignments_NH_Vihar\Day 15\10methods_file_ops\10methods_file_ops\bin\Debug\10methods_file_ops.exe
+C:\Assignments_NH_Vihar\Day 15\10methods_file_ops\10methods_file_ops\bin\Debug\10methods_file_ops.pdb
+C:\Assignments_NH_Vihar\Day 15\10methods_file_ops\10methods_file_ops\obj\Debug\10methods_file_ops.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 15\10methods_file_ops\10methods_file_ops\obj\Debug\10methods_file_ops.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 15\10methods_file_ops\10methods_file_ops\obj\Debug\10methods_file_ops.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 15\10methods_file_ops\10methods_file_ops\obj\Debug\10methods_file_ops.exe
+C:\Assignments_NH_Vihar\Day 15\10methods_file_ops\10methods_file_ops\obj\Debug\10methods_file_ops.pdb

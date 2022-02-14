@@ -1,0 +1,7 @@
+C:\Assignments_NH_Vihar\Day 15\read_data_file_ops\read_data_file_ops\bin\Debug\read_data_file_ops.exe.config
+C:\Assignments_NH_Vihar\Day 15\read_data_file_ops\read_data_file_ops\bin\Debug\read_data_file_ops.exe
+C:\Assignments_NH_Vihar\Day 15\read_data_file_ops\read_data_file_ops\bin\Debug\read_data_file_ops.pdb
+C:\Assignments_NH_Vihar\Day 15\read_data_file_ops\read_data_file_ops\obj\Debug\read_data_file_ops.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 15\read_data_file_ops\read_data_file_ops\obj\Debug\read_data_file_ops.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 15\read_data_file_ops\read_data_file_ops\obj\Debug\read_data_file_ops.exe
+C:\Assignments_NH_Vihar\Day 15\read_data_file_ops\read_data_file_ops\obj\Debug\read_data_file_ops.pdb

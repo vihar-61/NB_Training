@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 15\write_data_streamwriter\write_data_streamwriter\bin\Debug\write_data_streamwriter.exe.config
+C:\Assignments_NH_Vihar\Day 15\write_data_streamwriter\write_data_streamwriter\bin\Debug\write_data_streamwriter.exe
+C:\Assignments_NH_Vihar\Day 15\write_data_streamwriter\write_data_streamwriter\bin\Debug\write_data_streamwriter.pdb
+C:\Assignments_NH_Vihar\Day 15\write_data_streamwriter\write_data_streamwriter\obj\Debug\write_data_streamwriter.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 15\write_data_streamwriter\write_data_streamwriter\obj\Debug\write_data_streamwriter.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 15\write_data_streamwriter\write_data_streamwriter\obj\Debug\write_data_streamwriter.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 15\write_data_streamwriter\write_data_streamwriter\obj\Debug\write_data_streamwriter.exe
+C:\Assignments_NH_Vihar\Day 15\write_data_streamwriter\write_data_streamwriter\obj\Debug\write_data_streamwriter.pdb

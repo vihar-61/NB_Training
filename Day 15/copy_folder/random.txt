@@ -1,0 +1,9 @@
+Hi, This is Vihar
+
+Random Text !! (using WriteLine)
+
+Another random text !! (using Write)
+Continued.....
+Appending
+random
+text message

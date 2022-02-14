@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc909ab8-e9df-4db9-b9d9-900bad0610b1": {
+      "ProjectGuid": "fc909ab8-e9df-4db9-b9d9-900bad0610b1",
+      "DisplayName": "copy_task_scheduler",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
