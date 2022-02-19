@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 16\helloworld_oop\helloworld_oop\bin\Debug\helloworld_oop.exe.config
+C:\Assignments_NH_Vihar\Day 16\helloworld_oop\helloworld_oop\bin\Debug\helloworld_oop.exe
+C:\Assignments_NH_Vihar\Day 16\helloworld_oop\helloworld_oop\bin\Debug\helloworld_oop.pdb
+C:\Assignments_NH_Vihar\Day 16\helloworld_oop\helloworld_oop\obj\Debug\helloworld_oop.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 16\helloworld_oop\helloworld_oop\obj\Debug\helloworld_oop.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 16\helloworld_oop\helloworld_oop\obj\Debug\helloworld_oop.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 16\helloworld_oop\helloworld_oop\obj\Debug\helloworld_oop.exe
+C:\Assignments_NH_Vihar\Day 16\helloworld_oop\helloworld_oop\obj\Debug\helloworld_oop.pdb

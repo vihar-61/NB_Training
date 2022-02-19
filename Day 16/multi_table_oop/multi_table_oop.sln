@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multi_table_oop", "multi_table_oop\multi_table_oop.csproj", "{F9889B1E-D9DB-4215-A1CC-C7AC4503C4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9889B1E-D9DB-4215-A1CC-C7AC4503C4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9889B1E-D9DB-4215-A1CC-C7AC4503C4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9889B1E-D9DB-4215-A1CC-C7AC4503C4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9889B1E-D9DB-4215-A1CC-C7AC4503C4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B5ACA9-1928-4423-BF54-0D600D557ABA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 16\palindrome_oop\palindrome_oop\bin\Debug\palindrome_oop.exe.config
+C:\Assignments_NH_Vihar\Day 16\palindrome_oop\palindrome_oop\bin\Debug\palindrome_oop.exe
+C:\Assignments_NH_Vihar\Day 16\palindrome_oop\palindrome_oop\bin\Debug\palindrome_oop.pdb
+C:\Assignments_NH_Vihar\Day 16\palindrome_oop\palindrome_oop\obj\Debug\palindrome_oop.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 16\palindrome_oop\palindrome_oop\obj\Debug\palindrome_oop.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 16\palindrome_oop\palindrome_oop\obj\Debug\palindrome_oop.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 16\palindrome_oop\palindrome_oop\obj\Debug\palindrome_oop.exe
+C:\Assignments_NH_Vihar\Day 16\palindrome_oop\palindrome_oop\obj\Debug\palindrome_oop.pdb

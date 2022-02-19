@@ -1,0 +1,16 @@
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\bin\Debug\factorial_desktop_form_app.exe.config
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\bin\Debug\factorial_desktop_form_app.exe
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\bin\Debug\factorial_desktop_form_app.pdb
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\bin\Debug\Public_Library.dll
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\bin\Debug\VD_Library.dll
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\bin\Debug\Public_Library.pdb
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\bin\Debug\VD_Library.pdb
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.Form1.resources
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.Properties.Resources.resources
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.csproj.GenerateResource.cache
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.csproj.CopyComplete
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.exe
+C:\Assignments_NH_Vihar\Day 16\MyProject\factorial_desktop_form_app\obj\Debug\factorial_desktop_form_app.pdb

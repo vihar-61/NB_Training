@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 16\multi_table_oop\multi_table_oop\bin\Debug\multi_table_oop.exe.config
+C:\Assignments_NH_Vihar\Day 16\multi_table_oop\multi_table_oop\bin\Debug\multi_table_oop.exe
+C:\Assignments_NH_Vihar\Day 16\multi_table_oop\multi_table_oop\bin\Debug\multi_table_oop.pdb
+C:\Assignments_NH_Vihar\Day 16\multi_table_oop\multi_table_oop\obj\Debug\multi_table_oop.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 16\multi_table_oop\multi_table_oop\obj\Debug\multi_table_oop.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 16\multi_table_oop\multi_table_oop\obj\Debug\multi_table_oop.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 16\multi_table_oop\multi_table_oop\obj\Debug\multi_table_oop.exe
+C:\Assignments_NH_Vihar\Day 16\multi_table_oop\multi_table_oop\obj\Debug\multi_table_oop.pdb

@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 16\read_print_fact_oop\read_print_fact_oop\bin\Debug\read_print_fact_oop.exe.config
+C:\Assignments_NH_Vihar\Day 16\read_print_fact_oop\read_print_fact_oop\bin\Debug\read_print_fact_oop.exe
+C:\Assignments_NH_Vihar\Day 16\read_print_fact_oop\read_print_fact_oop\bin\Debug\read_print_fact_oop.pdb
+C:\Assignments_NH_Vihar\Day 16\read_print_fact_oop\read_print_fact_oop\obj\Debug\read_print_fact_oop.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 16\read_print_fact_oop\read_print_fact_oop\obj\Debug\read_print_fact_oop.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 16\read_print_fact_oop\read_print_fact_oop\obj\Debug\read_print_fact_oop.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 16\read_print_fact_oop\read_print_fact_oop\obj\Debug\read_print_fact_oop.exe
+C:\Assignments_NH_Vihar\Day 16\read_print_fact_oop\read_print_fact_oop\obj\Debug\read_print_fact_oop.pdb

@@ -1,0 +1,11 @@
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\bin\Debug\ClientApp.exe
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\bin\Debug\ClientApp.pdb
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\bin\Debug\VD_Library.dll
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\bin\Debug\VD_Library.pdb
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\obj\Debug\ClientApp.exe
+C:\Assignments_NH_Vihar\Day 16\partial_class\ClientApp\obj\Debug\ClientApp.pdb
