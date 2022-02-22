@@ -1,0 +1,6 @@
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_Library\bin\Debug\Math_Library.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_Library\bin\Debug\Math_Library.pdb
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_Library\obj\Debug\Math_Library.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_Library\obj\Debug\Math_Library.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_Library\obj\Debug\Math_Library.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_Library\obj\Debug\Math_Library.pdb

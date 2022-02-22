@@ -1,0 +1,17 @@
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Math_LibraryTests.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Math_LibraryTests.pdb
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Math_Library.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Math_Library.pdb
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\obj\Debug\Math_LibraryTests.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\obj\Debug\Math_LibraryTests.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\obj\Debug\Math_LibraryTests.csproj.CopyComplete
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\obj\Debug\Math_LibraryTests.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\Math_LibraryTests\obj\Debug\Math_LibraryTests.pdb

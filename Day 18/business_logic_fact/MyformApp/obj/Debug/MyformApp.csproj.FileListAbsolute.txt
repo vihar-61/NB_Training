@@ -1,0 +1,14 @@
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.Form1.resources
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.Properties.Resources.resources
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.csproj.GenerateResource.cache
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\bin\Debug\MyformApp.exe.config
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\bin\Debug\MyformApp.exe
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\bin\Debug\MyformApp.pdb
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\bin\Debug\Math_Library.dll
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\bin\Debug\Math_Library.pdb
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.csproj.CopyComplete
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.exe
+C:\Assignments_NH_Vihar\Day 18\business_logic_fact\MyformApp\obj\Debug\MyformApp.pdb
