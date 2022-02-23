@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 13\2darray_matrix_product\2darray_matrix_product\bin\Debug\2darray_matrix_product.exe.config
+C:\Assignments_NH_Vihar\Day 13\2darray_matrix_product\2darray_matrix_product\bin\Debug\2darray_matrix_product.exe
+C:\Assignments_NH_Vihar\Day 13\2darray_matrix_product\2darray_matrix_product\bin\Debug\2darray_matrix_product.pdb
+C:\Assignments_NH_Vihar\Day 13\2darray_matrix_product\2darray_matrix_product\obj\Debug\2darray_matrix_product.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 13\2darray_matrix_product\2darray_matrix_product\obj\Debug\2darray_matrix_product.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 13\2darray_matrix_product\2darray_matrix_product\obj\Debug\2darray_matrix_product.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 13\2darray_matrix_product\2darray_matrix_product\obj\Debug\2darray_matrix_product.exe
+C:\Assignments_NH_Vihar\Day 13\2darray_matrix_product\2darray_matrix_product\obj\Debug\2darray_matrix_product.pdb

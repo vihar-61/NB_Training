@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 13\2darray_read_print\2darray_read_print\bin\Debug\2darray_read_print.exe.config
+C:\Assignments_NH_Vihar\Day 13\2darray_read_print\2darray_read_print\bin\Debug\2darray_read_print.exe
+C:\Assignments_NH_Vihar\Day 13\2darray_read_print\2darray_read_print\bin\Debug\2darray_read_print.pdb
+C:\Assignments_NH_Vihar\Day 13\2darray_read_print\2darray_read_print\obj\Debug\2darray_read_print.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 13\2darray_read_print\2darray_read_print\obj\Debug\2darray_read_print.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 13\2darray_read_print\2darray_read_print\obj\Debug\2darray_read_print.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 13\2darray_read_print\2darray_read_print\obj\Debug\2darray_read_print.exe
+C:\Assignments_NH_Vihar\Day 13\2darray_read_print\2darray_read_print\obj\Debug\2darray_read_print.pdb

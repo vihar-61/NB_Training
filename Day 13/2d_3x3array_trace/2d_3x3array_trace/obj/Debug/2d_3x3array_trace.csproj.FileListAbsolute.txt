@@ -1,0 +1,8 @@
+C:\Assignments_NH_Vihar\Day 13\2d_3x3array_trace\2d_3x3array_trace\bin\Debug\2d_3x3array_trace.exe.config
+C:\Assignments_NH_Vihar\Day 13\2d_3x3array_trace\2d_3x3array_trace\bin\Debug\2d_3x3array_trace.exe
+C:\Assignments_NH_Vihar\Day 13\2d_3x3array_trace\2d_3x3array_trace\bin\Debug\2d_3x3array_trace.pdb
+C:\Assignments_NH_Vihar\Day 13\2d_3x3array_trace\2d_3x3array_trace\obj\Debug\2d_3x3array_trace.csproj.AssemblyReference.cache
+C:\Assignments_NH_Vihar\Day 13\2d_3x3array_trace\2d_3x3array_trace\obj\Debug\2d_3x3array_trace.csproj.SuggestedBindingRedirects.cache
+C:\Assignments_NH_Vihar\Day 13\2d_3x3array_trace\2d_3x3array_trace\obj\Debug\2d_3x3array_trace.csproj.CoreCompileInputs.cache
+C:\Assignments_NH_Vihar\Day 13\2d_3x3array_trace\2d_3x3array_trace\obj\Debug\2d_3x3array_trace.exe
+C:\Assignments_NH_Vihar\Day 13\2d_3x3array_trace\2d_3x3array_trace\obj\Debug\2d_3x3array_trace.pdb
